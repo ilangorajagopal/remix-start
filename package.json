@@ -1,0 +1,25 @@
+{
+  "name": "remix-start",
+  "version": "0.1.0",
+  "description": "Remix starters with the most popular libraries and tools commonly used today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilangorajagopal/remix-start.git"
+  },
+  "author": "Ilango Rajagopal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilangorajagopal/remix-start/issues"
+  },
+  "bin": {
+    "remix-start": "cli.js"
+  },
+  "homepage": "https://github.com/ilangorajagopal/remix-start#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
